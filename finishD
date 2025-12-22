@@ -11,7 +11,8 @@
       "updated_at": "2025-12-14T22:15:10.600Z",
       "role": "user",
       "last_login": null,
-      "hwid": "null"
+      "hwid": "null",
+      "password": "Hi"
     },
     {
       "id": 2,
